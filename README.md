@@ -1,10 +1,10 @@
+# Shopping Cart
+
 ## Demo
   <a href="https://shopping-card-esra.netlify.app/" target="_blank">Shopping Cart</a>
   
-<p><img align="right"
-  src="https://github.com/Yalcinesra/Shopping-Card/blob/main/shopping-cart.gif"  width="15px"></p>
 
-# Shopping Cart
+
 
 ## Description
 
