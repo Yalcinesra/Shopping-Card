@@ -3,7 +3,9 @@
 ## Demo
   <a href="https://shopping-card-esra.netlify.app/" target="_blank">Shopping Cart</a>
   
+## Expected Outcome
 
+![Shopping Cart](shopping-cart.gif)
 
 
 ## Description
@@ -43,9 +45,7 @@ SOLUTION
 
 ```
 
-## Expected Outcome
 
-![Shopping Cart](shopping-cart.gif)
 
 ## Objective
 
